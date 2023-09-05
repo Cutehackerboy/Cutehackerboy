@@ -12,7 +12,6 @@ toilet loading..... -f smblock
 toilet Successfully 
 echo .
 echo .
-clear
 cowsay Successfully completed 
 echo .
 echo .
