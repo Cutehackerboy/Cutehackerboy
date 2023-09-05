@@ -1,4 +1,4 @@
-Echo Please wait this Process take 2-3 min
+echo Please wait this Process take 2-3 min
 pkg update 
 pkg upgrade
 apt update
@@ -8,15 +8,16 @@ pkg install cowsay
 pkg install toilet
 pkg install wgit
 clear
+toilet loading..... -f smblock
 toilet Successfully 
 echo .
 echo .
 clear
 cowsay Successfully completed 
 echo .
-echo.
-echo.
+echo .
+echo .
 clear
-echo now run track.bash using bash track.bash..
+echo now run track.bash using bash track.bash.
 
-toilet Successfully
+toilet Successfully -F border --gay
