@@ -1,11 +1,11 @@
-user_name = input("Enter Your imei to track? ")pkg install python
+user_name = input("Enter Your imei to track? ")
 print("Hello user This is new Version of Imei track it could not working properly we fix it soon")
 
 user_name = input("Enter Your imei to track? ")
 print("Try to find imei")
 print(f"Imei, {user_name}!")
 print ("Tracking...")
-Clear
+
 print(f"Imei, {user_name}!")
 print("Found")
 print("Valid that this is your phone")
