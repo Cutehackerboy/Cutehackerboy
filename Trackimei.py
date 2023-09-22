@@ -18,4 +18,4 @@ print(f"Name, {user_id}!")
 random_number = random.randint(10**9, (10**10)-1)
 print("Number")
 print(random_number)
-print("Successfully")Enter
+print("Successfully")
