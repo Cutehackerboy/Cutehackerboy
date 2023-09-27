@@ -1,6 +1,6 @@
 import os
 
-from files.colors import *
+from files.colors import 
 from files.sprint import sprint
 
 from scripts.menu import menu, sleep
