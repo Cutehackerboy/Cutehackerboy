@@ -1,11 +1,4 @@
-import os
-
-from files.color
-from files.sprint import sprint
-
-from scripts.menu import menu, sleep
-from files.banner import banner, clear
-
+print(jiiiiiiiiii)
 clear()
 banner()
 sprint(ly + "\n\t\tPreparing Database...")
