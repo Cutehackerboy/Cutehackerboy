@@ -1,4 +1,4 @@
-print(jiiiiiiiiii)
+print("hi")
 clear()
 banner()
 sprint(ly + "\n\t\tPreparing Database...")
