@@ -1,3 +1,4 @@
+import clear
 print("-------------------")
 print("Hello user This is new Version of Imei track it could not working properly we fix it soon")
 
@@ -8,6 +9,7 @@ print ("Tracking...")
 
 print(f"Imei, {user_name}!")
 print("Found")
+clear()
 print("Valid that this is your phone")
 user_id = input("Enter This imei phone name")
 
